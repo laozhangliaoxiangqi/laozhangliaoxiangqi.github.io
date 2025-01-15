@@ -17,7 +17,6 @@ RSS: false
 #zhihu_username: huxpro
 #github_username: huxpro
 twitter_username: laozhang1006
-youtube_username: zhangjianwei
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -75,7 +74,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "象棋省级水平，喜爱研究象棋理论和技巧，每天更新，点关注不迷路。"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
