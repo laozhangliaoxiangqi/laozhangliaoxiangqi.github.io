@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: laozhangliaoxiangqi@gmail.com
 description: "象棋省级水平，喜爱研究象棋理论和技巧，每天更新，点关注不迷路。"
 keyword: "老张聊象棋, 象棋, 拆解, 解说"
-url: "https://www.youtube.com/@zhangjianwei" # your host, for absolute URL
+url: "https://laozhangliaoxiangqi.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
