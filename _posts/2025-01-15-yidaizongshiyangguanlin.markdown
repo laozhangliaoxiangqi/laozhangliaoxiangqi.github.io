@@ -1,3 +1,14 @@
+---
+layout:       post
+title:        "一代象棋宗师杨官璘"
+author:       "周镇明"
+header-style: text
+catalog:      true
+tags:
+    - 杨官璘
+    - 老张聊象棋
+---
+
 # 一代象棋宗师杨官璘
 由[老张聊象棋](https://www.youtube.com/@zhangjianwei)整理发布，欢迎大家订阅我的频道。
 ## 序
