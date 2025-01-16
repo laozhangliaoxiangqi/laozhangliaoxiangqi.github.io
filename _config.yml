@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-15X6NBMBEN" # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_domain: laozhangliaoxiangqi.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
