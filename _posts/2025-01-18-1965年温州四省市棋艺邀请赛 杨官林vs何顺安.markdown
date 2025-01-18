@@ -41,7 +41,7 @@ tags:
 
 象棋谱招法如下：
 
-![](/img/in-post/20d9f3ea-9556-4aa1-b668-a84d1d81fea5.svg?sanitize=true)
+![](/img/in-post/20d9f3ea-9556-4aa1-b668-a84d1d81fea5.svg)
 
 1.炮二平五 马8进7
 
