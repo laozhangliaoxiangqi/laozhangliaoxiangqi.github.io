@@ -5,13 +5,13 @@ author:       "老张聊象棋"
 header-style: text
 catalog:      true
 tags:
-    - 杨官林
+    - 杨官璘
     - 何顺安
     - 中炮巡河炮对屏风马
     - 1965年温州四省市棋艺邀请赛
 ---
 
-红方棋手：杨官林
+红方棋手：杨官璘
 
 黑方棋手：何顺安
 
@@ -40,10 +40,6 @@ tags:
 简介
 
 象棋谱招法如下：
-
-![](/img/in-post/20d9f3ea-9556-4aa1-b668-a84d1d81fea5.svg)
-
-<embed src='/img/in-post/20d9f3ea-9556-4aa1-b668-a84d1d81fea5.svg' width='100%' style='max-width:360px' type='image/svg+xml'/>
 
 1.炮二平五 马8进7
 
