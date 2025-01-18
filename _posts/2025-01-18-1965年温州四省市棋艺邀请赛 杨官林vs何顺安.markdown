@@ -43,6 +43,8 @@ tags:
 
 ![](/img/in-post/20d9f3ea-9556-4aa1-b668-a84d1d81fea5.svg)
 
+<embed src='/img/in-post/20d9f3ea-9556-4aa1-b668-a84d1d81fea5.svg' width='100%' style='max-width:360px' type='image/svg+xml'/>
+
 1.炮二平五 马8进7
 
 2.马二进三 车9平8
