@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "2000年第20届五羊杯全国象棋冠军邀请赛 吕钦vs胡荣华"
+title:        "2000年第20届五羊杯全国象棋冠军邀请赛 吕钦先负胡荣华"
 author:       "老张聊象棋"
 header-style: text
 catalog:      true
