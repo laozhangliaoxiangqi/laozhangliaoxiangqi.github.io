@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "1965年温州四省市棋艺邀请赛 杨官林vs何顺安"
+title:        "1965年温州四省市棋艺邀请赛 杨官璘先胜何顺安"
 author:       "老张聊象棋"
 header-style: text
 catalog:      true
