@@ -42,6 +42,7 @@ tags:
 解说：[西北棋圣彭述圣太猛！让两先还玩“弃马13招”！绝妙的入局](https://youtu.be/A8DvgOxR-Io)
 
 象棋谱招法如下：
+<embed src='https://xqipu.bj.bcebos.com/3dd36b05-b95d-4b71-a14d-685f47de7937.svg' width='100%' style='max-width:360px' type='image/svg+xml'/>
 ```
 1.炮八平五 马八进七
 2.炮2平5 车九平八
