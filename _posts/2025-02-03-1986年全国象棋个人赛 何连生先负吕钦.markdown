@@ -89,4 +89,3 @@ tags:
 45.仕五退六 炮5退1
 46.车一退七 马7进5
 ```
-![这是图片](https://xqipu.bj.bcebos.com/306dbedd-6a15-4fe6-be5c-a46f929d99c4.svg "Magic Gardens")
